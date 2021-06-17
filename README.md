@@ -1,8 +1,8 @@
-# Selamat Datang di Github Kuhong-V4 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+# Selamat Datang di Github BakaBOTZ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="500px">
 
 ## Ada Bug, Erorr, atau mau Request? <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="30px">
-[`Chat Admin`](https://wa.me/62895337278647)
+[`Chat Admin`](https://wa.me/6287834993722)
 Atau Bisa Lewat Issue :)
 
 ### FOR TERMUX USER
@@ -12,13 +12,13 @@ Atau Bisa Lewat Issue :)
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/BakaBOTZ/BAKA3
+> cd BAKA3
 > npm install
 ```
 ###### Run
 ```bash
-> node RendyGans
+> npm start
 ```
 ---------
 
@@ -28,8 +28,8 @@ Atau Bisa Lewat Issue :)
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/RC047/Kuhong-V4
-> cd Kuhong-V4
+> git clone https://github.com/BakaBOTZ/BAKA3
+> cd BAKA3
 > npm install
 ```
 ###### Run
@@ -182,11 +182,10 @@ Atau Bisa Lewat Issue :)
 
 # MEDIA SOSIAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
-#### YouTube : [`RC047`](https://www.youtube.com/c/RC047)
-#### Instagram : [`@rendycraft047`](https://www.instagram.com/rendycraft047)
-#### Kontak : [`WhatsApp`](https://wa.me/62895337278647)
-#### Donasi : [`Seikhlasnya :)`](https://saweria.co/RC047)
+#### YouTube : [`CLICK HERE`](https://www.youtube.com/c/)
+#### Instagram : [`CLICK HERE`](https://www.instagram.com/ythomeanime)
+#### Kontak : [`WhatsApp`](https://wa.me/628953372)
 
 #### API Rest : [`kuhong-api`](https://kuhong-api.herokuapp.com/)
 #### Created By : [`Nurutomo`](https://GitHub.com/Nurutomo) 
-#### Recoded By : [`RC047`](https://GitHub.com/RC047) 
+#### Recoded By : [`BakaBOTZ`](https://GitHub.com/BakaBOTZ) 
